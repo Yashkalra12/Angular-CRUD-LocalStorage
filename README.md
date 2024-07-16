@@ -1,10 +1,9 @@
-Here's a README for your Angular CRUD application with local storage:
 
 # Angular-Crud-LocalStorage
 
 This is a simple CRUD (Create, Read, Update, Delete) application built with Angular 17 to manage student data. The student information is stored in the local storage, and Bootstrap CDN is used for styling the user interface.
 
-![UI Screenshot](/Users/yashkalra/Desktop/Projects/Crud-Angular/crud_localstorage/public/crud.png)
+![UI Screenshot](./crud_localstorage/public/screenshot.png)
 
 ## Table of Contents
 
@@ -27,20 +26,23 @@ This is a simple CRUD (Create, Read, Update, Delete) application built with Angu
 ## Installation
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/Angular-Crud-LocalStorage.git
-    cd Angular-Crud-LocalStorage
-    ```
+
+   ```sh
+   git clone https://github.com/your-username/Angular-Crud-LocalStorage.git
+   cd Angular-Crud-LocalStorage
+   ```
 
 2. Install the dependencies:
-    ```sh
-    npm install
-    ```
+
+   ```sh
+   npm install
+   ```
 
 3. Start the development server:
-    ```sh
-    ng serve
-    ```
+
+   ```sh
+   ng serve
+   ```
 
 4. Open your browser and navigate to `http://localhost:4200`.
 
@@ -77,14 +79,8 @@ Angular-Crud-LocalStorage/
 └── README.md
 ```
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request for any feature additions or bug fixes.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to replace the placeholder text (e.g., `path_to_your_screenshot.png`, `your-username`) with your actual details.
